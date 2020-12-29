@@ -14,7 +14,15 @@
   "author": "David Portilla <davidportilla179@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "/bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidportilla179/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidportilla179/random-messages/issues"
+  },
+  "homepage": "https://github.com/davidportilla179/random-messages#readme"
 }
